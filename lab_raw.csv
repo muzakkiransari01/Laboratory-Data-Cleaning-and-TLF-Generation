@@ -1,0 +1,21 @@
+patient_id,visit_date,lbtest,result,unit,low,high,anrind
+P001,2023-03-01,Hemoglobin,12.5,g/dL,12,16,Normal
+p-002,03/03/2023,Hemoglobin,11.2,g/dL,12,16,low
+003,2023/03/05,Glucose fasting,105,mg/dL,70,110,Normal
+P004,05-03-23,Glucose Fstng,190,mg/dL,70,110,HIGH
+p005,07.03.2023,Platelet count,150000,/uL,150000,400000,normal
+P006,2023-03-09,Platelets,90,000,/UL,150000,400000,Low
+007,10-03-2023,SGPT,55,U/L,10,40,HIGH
+p008,2023/03/11,sgpt,.,U/L,10,40,
+P009,12-03-2023,ALP,120,U/L,40,120,normal
+010,13-03-23,ALP,130,U/L,40,120,HIGH
+p011,15/03/2023,Hemoglobin,15.8,g/dL,12,16,NORMAL
+012,16-03-23,Hemoglobin,17.5,g/dL,12,16,HIGH
+P013,2023/03/17,Glucose fasting,68,mg/dL,70,110,low
+p014,2023-03-18,GLUCOSE FSTNG,250,mg/dl,70,110,HIGH
+015,19.03.2023,Platelets,200000,/uL,150000,400000,Normal
+P016,20-03-23,platelet count,140000,/UL,150000,400000,LOW
+017,21-03-2023,SGPT,.,U/L,10,40,
+p018,22/03/2023,sgpt,25,u/l,10,40,normal
+P019,23-03-23,ALP,39,U/L,40,120,low
+020,24-03-2023,ALP,135,u/l,40,120,HIGH
