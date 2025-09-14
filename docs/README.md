@@ -18,15 +18,6 @@ This project focuses on cleaning and standardizing laboratory test data as per C
     - Summary Table of lab tests by range indicator.
     - Figure** showing distribution by test and range indicator.
 
-Folder Structure
-project3/
-│── raw/ Raw input dataset (lab_raw.csv)
-│── mapping/ Mapping file for lab tests
-│── programs/ SAS program (lab_cleaning.sas)
-│── outputs/ Final outputs (datasets, TLFs)
-│── PROJECT3_report.pdf Project documentation
-│── README.md
-
 
   Outputs
 - Cleaned Dataset: `labtest`
@@ -41,3 +32,4 @@ project3/
 - Demonstrates data cleaning with `DATA` step, `PROC SQL`, and mapping tables.
 - Validated derived variables (`LBSTNRIND`) using `PROC COMPARE`.
 - Generated example TLFs for demonstration purposes.
+
