@@ -1,6 +1,5 @@
 # Clinical SAS Project 3 – Laboratory Data Cleaning and TLFs
 
-   Objective
 This project focuses on cleaning and standardizing laboratory test data as per CDISC SDTM standards, and generating basic TLFs (Tables, Listings, and Figures).
 
    Steps Performed
@@ -32,4 +31,5 @@ This project focuses on cleaning and standardizing laboratory test data as per C
 - Demonstrates data cleaning with `DATA` step, `PROC SQL`, and mapping tables.
 - Validated derived variables (`LBSTNRIND`) using `PROC COMPARE`.
 - Generated example TLFs for demonstration purposes.
+
 
