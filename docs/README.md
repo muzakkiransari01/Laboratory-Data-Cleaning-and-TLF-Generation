@@ -32,4 +32,9 @@ This project focuses on cleaning and standardizing laboratory test data as per C
 - Validated derived variables (`LBSTNRIND`) using `PROC COMPARE`.
 - Generated example TLFs for demonstration purposes.
 
+👤 Author
+Muzakkir Ansari
+B.Sc. Statistics, 2024 | Mumbai, India
+📧 muzakkiransari001@gmail.com
+
 
